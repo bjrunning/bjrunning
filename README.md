@@ -8,6 +8,7 @@ Beginner Java developer. Communication skills, tenacity, problem solving skills 
 
 * 🌍  I'm currently based in **Penza, Russia**
 * ✉️  You can contact me at [senzhapov.02@mail.ru](mailto:senzhapov.02@mail.ru) or [Telegram](@senzhapov)
+* 💻  Courses: Hexlet Programming School
 * 🤝  I am open to collaboration on interesting projects.
 * ⚡  I like to see things through to the end.
 
