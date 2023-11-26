@@ -1,7 +1,7 @@
 Hi 👋 My name is Ruslan Senzhapov
 ====================================
 
-Java-Developer
+Java Developer
 --------------
 
 Beginner Java developer. Communication skills, tenacity, problem solving skills and effective teamwork.
