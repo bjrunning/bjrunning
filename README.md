@@ -22,14 +22,6 @@ Beginner Java developer. Communication skills, tenacity, problem solving skills 
 
 ## Projects:
 
-### [Brain Games](https://github.com/bjrunning/java-project-61)
-“Mind Games” is a set of five console games built on the principle of popular mobile applications for brain training. Every game asks questions that need clear answers. After three incorrect answers, the game is considered completed. Wrong answers end the game and prompt you to play it again.
-
-
-### [Difference Calculator](https://github.com/bjrunning/java-project-71)
-A difference calculator is a program that determines the difference between two data structures. This is a popular task, for which there are many online services, for example: http://www.jsondiff.com/. A similar mechanism is used when outputting tests or automatically tracking changes in configuration files.
-
-
 ### [Data Validator](https://github.com/bjrunning/java-project-78)
 Data validator is a library that can be used to check the correctness of any data. There are many similar libraries in every language, since almost all programs work with external data that needs to be checked for correctness. First of all, we are talking about data from forms filled out by users. The project is based on the yup library.
 
