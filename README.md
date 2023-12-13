@@ -28,3 +28,6 @@ Data validator is a library that can be used to check the correctness of any dat
 
 ### [Analyze Website](https://github.com/bjrunning/java-project-72)
 Is a site that analyzes specified pages for SEO suitability. Javalin.
+
+### [Task Manager](https://github.com/bjrunning/java-project-99)
+Task manager implemented in Spring Boot.
