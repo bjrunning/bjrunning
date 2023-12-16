@@ -22,12 +22,17 @@ Beginner Java developer. Communication skills, tenacity, problem solving skills 
 
 ## Projects:
 
-### [Data Validator](https://github.com/bjrunning/java-project-78)
-Data validator is a library that can be used to check the correctness of any data. There are many similar libraries in every language, since almost all programs work with external data that needs to be checked for correctness. First of all, we are talking about data from forms filled out by users. The project is based on the yup library.
+### [Brain Games](https://github.com/bjrunning/java-project-61)
+"Mind Games" - is a set of five console games, built on the principle of popular mobile applications for brain pumping. 
 
+### [Data Validator](https://github.com/bjrunning/java-project-78)
+Data validator is a library that can be used to check the correctness of any data.
 
 ### [Analyze Website](https://github.com/bjrunning/java-project-72)
 Is a site that analyzes specified pages for SEO suitability. Javalin.
+
+### [Javalin Example](https://github.com/bjrunning/javalin-example)
+A simple pet project that implements a web application based on the Javalin microframework. With the addition of courses.
 
 ### [Task Manager](https://github.com/bjrunning/java-project-99)
 Task manager implemented in Spring Boot.
