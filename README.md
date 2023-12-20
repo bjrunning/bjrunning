@@ -16,7 +16,7 @@ Beginner Java developer. Communication skills, tenacity, problem solving skills 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,idea,gradle,linux,git,github,postgres,bash,docker,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,spring,idea,gradle,linux,git,github,postgres,bash,docker,html,css" />
   </a>
 </p>
 
