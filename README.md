@@ -34,11 +34,5 @@ Data validator is a library that can be used to check the correctness of any dat
 ### [Analyze Website](https://github.com/bjrunning/java-project-72)
 Is a site that analyzes specified pages for SEO suitability. Javalin.
 
-### [Javalin Example](https://github.com/bjrunning/javalin-example)
-A simple pet project that implements a web application based on the Javalin microframework. With the addition of courses.
-
-### [Spring Example](https://github.com/bjrunning/spring-example)
-A simple pet project implemented in Spring Boot. The backend consists of CRUD of users, posts, as well as authentication of the security category. No frontend.
-
 ### [Task Manager](https://github.com/bjrunning/java-project-99)
 Task manager implemented in Spring Boot.
