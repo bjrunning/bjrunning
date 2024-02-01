@@ -4,7 +4,7 @@ Hi 👋 My name is Ruslan Senzhapov
 Java Developer
 --------------
 
-Beginner Java developer. Communication skills, tenacity, problem solving skills and effective teamwork.
+Communication skills, tenacity, problem solving skills and effective teamwork.
 
 * 🌍  I'm currently based in **Penza, Russia**
 * ✉️  You can contact me at [senzhapov.02@mail.ru](mailto:senzhapov.02@mail.ru) or [Telegram](@senzhapov)
